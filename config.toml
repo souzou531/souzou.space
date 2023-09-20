@@ -1,0 +1,4 @@
+baseURL = 'http://souzou.space'
+languageCode = 'en-us'
+title = 'p!on'
+theme = 'paper'

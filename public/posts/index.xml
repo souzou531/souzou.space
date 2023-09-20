@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on p!on</title>
+    <link>http://souzou.space/posts/</link>
+    <description>Recent content in Posts on p!on</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2023 04:15:15 +0800</lastBuildDate><atom:link href="http://souzou.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://souzou.space/posts/my-first-post/</link>
+      <pubDate>Thu, 21 Sep 2023 04:15:15 +0800</pubDate>
+      
+      <guid>http://souzou.space/posts/my-first-post/</guid>
+      <description>Intro This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>
